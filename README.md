@@ -1,8 +1,8 @@
 # Graduation-Design
 
 lyrics2music
-#V1.1
+# V1.1
 based on BERT+VAE
-#V1.0
+# V1.0
 based on LSTM
 
