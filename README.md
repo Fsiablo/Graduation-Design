@@ -2,7 +2,7 @@
 
 lyrics2music
 # V1.1
-based on BERT+VAE
+based on VAE
 # V1.0
 based on LSTM
 
